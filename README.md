@@ -26,8 +26,6 @@ iTunes MusicやSpotifyなど複数のプラットフォームのリンクを1つ
 
 ## 設計書
 
-<...>
-
 ## チャレンジ要素一覧
 
 https://docs.google.com/spreadsheets/d/1SSkh63-mOh-nGsp-UqgfmJePAYIfJSFxYjlmz6UF6lc/edit#gid=0
@@ -42,5 +40,3 @@ https://docs.google.com/spreadsheets/d/1SSkh63-mOh-nGsp-UqgfmJePAYIfJSFxYjlmz6UF
 
 ## 使用素材
 
-- 外部サービスの画像素材・音声素材を使用した場合は、必ずサービス名と URL を明記してください。
-- 使用しない場合は、使用素材の項目を README から削除してください。
