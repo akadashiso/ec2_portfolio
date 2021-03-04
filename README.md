@@ -6,7 +6,7 @@
 
 ### サイトテーマ
 
-あなたの1つのリンクに集約し、再生回数を上げる
+あなたの楽曲のURLを1つのリンクに集約し、再生回数を上げる
 
 ### テーマを選んだ理由
 
@@ -24,9 +24,7 @@ iTunes MusicやSpotifyなど複数のプラットフォームのリンクを1つ
 
 楽曲リリースのプロモーションおよびシェア
 
-## 設計書
-
-## チャレンジ要素一覧
+## 機能一覧
 
 https://docs.google.com/spreadsheets/d/1SSkh63-mOh-nGsp-UqgfmJePAYIfJSFxYjlmz6UF6lc/edit#gid=0
 
@@ -37,6 +35,4 @@ https://docs.google.com/spreadsheets/d/1SSkh63-mOh-nGsp-UqgfmJePAYIfJSFxYjlmz6UF
 - フレームワーク：Ruby on Rails
 - JS ライブラリ：jQuery
 - IDE：Cloud9
-
-## 使用素材
 
